@@ -1,0 +1,17 @@
+1. /proc/version 
+Linux version 3.5.0-17-generic (buildd@roseapple) (gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ) #28-Ubuntu SMP Tue Oct 9 19:32:08 UTC 2012
+
+2. /proc/filesystems
+Yes, it does support ext3.
+
+3. /proc/swaps
+This system provides 5921788 bytes of swap space.
+
+4. /proc/2771/cmdline
+ssh benwang@eniac.seas.upenn.edu
+
+5. /proc/
+?????
+
+6. /proc/cpuinfo
+cpu MHz 2876.570

@@ -1,0 +1,10 @@
+#/bin/sh
+
+echo "Hello World"
+
+#unset $(git rev-parse --local-env-vars)
+cd ~ || exit
+unset GIT_DIR
+git pull local master
+
+#exec git-update-server-info
