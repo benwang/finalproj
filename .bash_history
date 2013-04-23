@@ -259,3 +259,16 @@ git pull
 git pull local master
 exit
 git pull local master
+git add .
+git commit -m "with proc file"
+git push local master
+cd finalproject.git/
+ls
+git add .
+ls -a
+cd hooks/
+ls
+cd ..
+git pull local master
+git mergetool
+exit
