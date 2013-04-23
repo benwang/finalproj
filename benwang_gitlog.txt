@@ -1,0 +1,165 @@
+commit 72e651e8436a5fde8b4e9c40070421695232fff5
+Merge: 7d44fda f722950
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Tue Apr 23 01:38:57 2013 -0400
+
+    Merge branch 'master' of ec2-54-244-208-197.us-west-2.compute.amazonaws.com:finalproject
+
+commit 7d44fdab50eb7756cd3d5dfdf08bee4348ba51a0
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Tue Apr 23 01:34:33 2013 -0400
+
+    restart
+
+commit f72295082e7d578c842c0775b1fb1f9e176404a4
+Merge: 800b851 cfed84c
+Author: Ubuntu <ubuntu@ip-10-249-37-119.us-west-2.compute.internal>
+Date:   Tue Apr 23 05:18:19 2013 +0000
+
+    Merge branch 'master' of /home/ubuntu/finalproject
+
+commit 800b8516cbc05e6c1b632b10f8e9eca523046cdd
+Merge: d97d25e e242b58
+Author: Ubuntu <ubuntu@ip-10-249-37-119.us-west-2.compute.internal>
+Date:   Tue Apr 23 05:18:05 2013 +0000
+
+    updated index.html with proc
+
+commit dda5d3902db33489232d043f7219d66b04156cfa
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Tue Apr 23 01:17:48 2013 -0400
+
+    with line breaks
+
+commit cfed84ca697c22215cd3547391f4e98041501797
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Tue Apr 23 01:12:05 2013 -0400
+
+    With proc_text and .o
+
+commit d97d25eeb004628e8ca3e1626a6552ec59c1ded1
+Author: Ubuntu <ubuntu@ip-10-249-37-119.us-west-2.compute.internal>
+Date:   Tue Apr 23 05:07:24 2013 +0000
+
+    with proc file
+
+commit e242b588b0586addd706e8625c92900da38aecd0
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Tue Apr 23 00:59:04 2013 -0400
+
+    with proc file
+
+commit 2cdf6bb7b89430d734ff5c7eedb5d31b95ef16bf
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Sat Apr 20 01:54:44 2013 -0400
+
+    test index.html changes
+
+commit 52cfb9923d1586d6dc76a7559e24cde37a04d6b4
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Sat Apr 20 01:53:31 2013 -0400
+
+    proc_fun.txt on page
+
+commit 018f3e158bcfd5ff65b3c18a1a86917d0dd2d06b
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Sat Apr 20 01:51:58 2013 -0400
+
+    proc_fun.txt on page
+
+commit 81d0c90de18d2d698786391b4ea65e45929064b6
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:37:53 2013 -0400
+
+    index
+
+commit b2b8e9a9122244d45ad9b9efb8a62d54daff149a
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:37:11 2013 -0400
+
+    index
+
+commit 69dd2082fbd1d4d9c4ecebf47a0d23fd1232376a
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:26:53 2013 -0400
+
+    test post-recieve
+
+commit 4545ec75494f12c6bdf6fc8e42f387c437521650
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:22:58 2013 -0400
+
+    test post-recieve
+
+commit 30902f5f409b5cd9f1e05d784968c343df70843e
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:20:20 2013 -0400
+
+    test post-recieve
+
+commit 6c795f4ab8e81c7b0964060ee7444755568d47f9
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:12:32 2013 -0400
+
+    test post-recieve
+
+commit 39ea2c11e4e274c3d17b0e5a3b1630e43b035e63
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 15:02:33 2013 -0400
+
+    test post-recieve
+
+commit bdc1bb007ecb8c601ae50bf6572123d4a1ba5e82
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 14:59:25 2013 -0400
+
+    test post-recieve
+
+commit b9b72b9db7e9502b687237ed85bb39801b03fa04
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 14:57:54 2013 -0400
+
+    test post-recieve
+
+commit cf70b3bc5d02f5e10957e79818eba4b23fbe1bdd
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 14:52:07 2013 -0400
+
+    test post-recieve
+
+commit 53964322dab93e7abbc034cdb3e66d24d9e0c60e
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 14:46:34 2013 -0400
+
+    New post-receive
+
+commit efc1cd4109ac96a7754edacb9c251e7553eb3ce3
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 13:59:55 2013 -0400
+
+    test post-recieve
+
+commit e1b6fcbe49668df1b7a55e5afd9cefb9ab0e3d64
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Fri Apr 19 13:54:28 2013 -0400
+
+    test post-recieve
+
+commit f958cfb917807a4bc359d900442a7680e22b5f43
+Merge: 0f56f5f 221a43d
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Thu Apr 11 00:23:35 2013 -0400
+
+    Merge branch 'master' of github.com:benwang/finalproj
+
+commit 221a43d92a488d1b3e58479b33fe1c52cc51abae
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Thu Apr 11 00:13:02 2013 -0700
+
+    Initial commit
+
+commit 0f56f5f724f73433fa258442ad44e93298467aea
+Author: Benjamin Wang <benwang@sas.upenn.edu>
+Date:   Thu Apr 11 00:22:20 2013 -0400
+
+    Initial commit parts 1-2
