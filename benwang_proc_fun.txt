@@ -7,9 +7,11 @@ Yes, it does support ext3.
 3. /proc/swaps
 This system provides 5921788 bytes of swap space.
 
-4. 
+4. /proc/2771/cmdline
+ssh benwang@eniac.seas.upenn.edu
 
-5.
+5. /proc/
+?????
 
 6. /proc/cpuinfo
 cpu MHz 2876.570
